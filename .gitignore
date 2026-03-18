@@ -1,3 +1,5 @@
 olist.db
 olist.sqbpro
 *.zip
+.DS_Store
+.Rhistory
