@@ -9,8 +9,8 @@ revenue drivers, customer segmentation, and logistical performance.
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/yugal.jagtap/viz/CustomerRevenueAnalyticsOlistBrazil/OlistBRDashboard)
 
 ## Notebooks
-- [SQLite Analysis & Business Insights](notebooks/olist_analysis.ipynb)
-- [BigQuery Migration Guide](notebooks/olist_bigquery.ipynb)
+- [SQLite Analysis & Business Insights](olist_analysis.ipynb)
+- [BigQuery Migration Guide](olist_bigquery.ipynb)
 
 ## Tech Stack
 - **Data Processing:** Python (Pandas, SQLAlchemy)
